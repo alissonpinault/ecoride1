@@ -1,5 +1,5 @@
 CREATE DATABASE IF NOT EXISTS ecoride CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE ecoride;
+USE ecoride+;
 
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
