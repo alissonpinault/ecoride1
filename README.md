@@ -88,7 +88,7 @@ $password = '';
 Ouvrir un navigateur et accéder à http://localhost/ecoride1/accueil.php
 
 ## Identifiants de test
-
+```bash
 | Rôle        | Email                                           | Mot de passe |
 | ----------- | ----------------------------------------------- | ------------ |
 | Utilisateur |                 marie@jeanne.com                |   ouimarie   |
