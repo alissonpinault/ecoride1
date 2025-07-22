@@ -83,10 +83,12 @@ $password = '';
 Ouvrir un navigateur et accéder à http://localhost/ecoride1
 
 ## Identifiants de test
-Rôle	Email	Mot de passe
-Utilisateur	test@ecoride.fr	test123
-Employé	employe@ecoride.fr	employe123
-Admin	admin@ecoride.fr	admin123
+
+| Rôle        | Email                                           | Mot de passe |
+| ----------- | ----------------------------------------------- | ------------ |
+| Utilisateur | [test@ecoride.fr](mailto:test@ecoride.fr)       | test123      |
+| Employé     | [employe@ecoride.fr](mailto:employe@ecoride.fr) | employe123   |
+| Admin       | [admin@ecoride.fr](mailto:admin@ecoride.fr)     | admin123     |
 
 Ces identifiants sont présents dans la base de données fournie.
 
