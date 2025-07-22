@@ -24,7 +24,7 @@
 
 
 ## Structure du projet
-
+```bash
 ecoride1/
 ├── ecoride/                    # Dossier principal de l'application
 │   ├── accueil/                # Page d'accueil
