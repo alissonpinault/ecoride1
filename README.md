@@ -26,10 +26,10 @@
 ## Structure du projet
 
 ecoride1/
-├── ecoride/
-            └── utiles/
-            │         └── db/
-            │         ├── fonctions/
+- ecoride/
+  -utiles/
+            - db/
+            - fonctions/
             │         ├── footer/
             │         ├── header/
             │         ├── style.css/
