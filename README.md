@@ -17,7 +17,7 @@
 
 ## Technologies utilisées
 
-- **Front-end** : HTML, CSS, Tailwind CSS, JavaScript
+- **Front-end** : HTML, CSS, Tailwind CSS
 - **Back-end** : PHP (PDO)
 - **Base de données** : MySQL
 - **Autres outils** : phpMyAdmin, GitHub, Font Awesome, VS code
