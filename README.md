@@ -26,27 +26,27 @@
 ## Structure du projet
 
 ecoride1/
-- ecoride/
-  -utiles/
-            - db/
-            - fonctions/
-            │         ├── footer/
-            │         ├── header/
-            │         ├── style.css/
-            ├── accueil/
-            ├── connexion/
-            ├── contact/
-            ├── creation_compte/
-            ├── deconnexion/
-            ├── detail/
-            ├──mentions_legales/
-            ├── mon_espace/
-            ├── recherche/
+├── ecoride/                    # Dossier principal de l'application
+│   ├── accueil/                # Page d'accueil
+│   ├── connexion/              # Page de connexion utilisateur
+│   ├── contact/                # Formulaire de contact
+│   ├── creation_compte/        # Page d'inscription
+│   ├── deconnexion/            # Déconnexion de l'utilisateur
+│   ├── detail/                 # Détail d’un trajet
+│   ├── mentions_legales/       # Mentions légales
+│   ├── mon_espace/             # Espace personnel de l’utilisateur
+│   ├── recherche/              # Moteur de recherche de covoiturages
+│   └── utiles/                 # Fichiers utilitaires
+│       ├── db/                 # Connexion à la base de données (fichier db.php)
+│       ├── fonctions/          # Fonctions PHP réutilisables
+│       ├── footer/             # Pied de page inclus
+│       ├── header/             # En-tête inclus
+│       └── style.css           # Feuille de style principale
+│
 ├── sql/
-│      └── ecoride.sql
-│   
-├── README.md
-
+│   └── ecoride.sql             # Script SQL de création de la base de données
+│
+└── README.md
 
 ## 1. Installation et exécution en local
 
