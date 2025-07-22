@@ -47,7 +47,7 @@ ecoride1/
 │   └── ecoride.sql             # Script SQL de création de la base de données
 │
 └── README.md
-
+```
 ## 1. Installation et exécution en local
 
 1. Pré-requis
@@ -88,7 +88,7 @@ $password = '';
 Ouvrir un navigateur et accéder à http://localhost/ecoride1/accueil.php
 
 ## Identifiants de test
-```bash
+
 | Rôle        | Email                                           | Mot de passe |
 | ----------- | ----------------------------------------------- | ------------ |
 | Utilisateur |                 marie@jeanne.com                |   ouimarie   |
